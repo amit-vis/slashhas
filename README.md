@@ -17,7 +17,7 @@ for fetch the api you have to
 
 # for view the page
 ## access the search page
-/search
+/
 ![alt text](image.png)
 
 ## access the favourites page
